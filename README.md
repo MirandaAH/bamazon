@@ -1,3 +1,3 @@
 #Bamazon
 
-![alt text](./pictures/bamazonCustomer1.png 'Customer View 1.')
+![alt text](pictures/bamazonCustomer1.png 'Customer View 1.')
