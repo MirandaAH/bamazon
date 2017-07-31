@@ -1,13 +1,13 @@
-#Bamazon
+# Bamazon
 
-#Customer
+# Customer
 ![alt text](/images/Customer.png 'Customer')
 
-#Manager
+# Manager
 ![alt text](/images/Manager1.png 'Manager 1')
 
-#Manager
+# Manager
 ![alt text](/images/Manager2.png 'Manager 2')
 
-#Supervisor
+# Supervisor
 ![alt text](/images/Supervisor.png 'Supervisor')
