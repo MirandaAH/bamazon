@@ -1,13 +1,32 @@
-# Bamazon
+# bamazon
 
-# Customer
-![alt text](/images/Customer.png 'Customer')
+![banner](images/Customer.png)
+![manager](images/Manager.png)
+![manager2](images/Manager)
+![supervisor](images/Supervisor.png)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-# Manager
-![alt text](/images/Manager1.png 'Manager 1')
+> A store-like CLI built with MySQL. The app will take in orders from customers and deplete stock from the store&#39;s inventory. The app is also able to track product sales across your store&#39;s departments and then provide a summary of the highest-grossing departments in the store.
 
-# Manager
-![alt text](/images/Manager2.png 'Manager 2')
+## Table of Contents
 
-# Supervisor
-![alt text](/images/Supervisor.png 'Supervisor')
+- [Usage](#usage)
+- [Todo](#todo)
+- [Maintainers](#maintainers)
+- [License](#license)
+
+
+## Usage
+
+```
+
+```
+
+## Maintainers
+
+[@MirandaAH](https://github.com/MirandaAH)
+
+
+## License
+
+MIT © 2017 Miranda Hane

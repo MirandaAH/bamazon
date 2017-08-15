@@ -31,7 +31,7 @@ function startSupervisor () {
         for (var i=0; i < res.length; i++){
           var total_profit = res[i].over_head_costs - res[i].product_sales;
           console.log(res[i].department_id + " | "
-          +res[i].department_name + " | " +
+          + res[i].department_name + " | " +
           res[i].over_head_costs + " | "+
           res[i].product_sales + " | " +
           total_profit);
